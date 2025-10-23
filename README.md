@@ -1,4 +1,4 @@
-# 🪵 FARMHOUSE TABLE BUILD PLAN — FINAL VERSION (8″ STRINGER HEIGHT)
+# 🪵 FARMHOUSE TABLE BUILD PLAN — FINAL VERSION (8″ STRINGER HEIGHT, REVISED)
 
 ---
 
@@ -47,15 +47,15 @@
 
 ### Base Assembly
 
-| Part                   | Qty | Material     | Final Cut              | Notes                                       |
-| ---------------------- | --- | ------------ | ---------------------- | ------------------------------------------- |
-| Legs                   | 4   | 4×4          | 28.75″                 | 3½″ actual square                           |
-| Long aprons            | 2   | 2×4 (planed) | 71″                    | Between legs, inset ½″                      |
-| Short aprons           | 2   | 2×4 (planed) | 31.5″                  | Between legs                                |
-| Bottom short stringers | 2   | 4×4          | 31.5″                  | 8″ from floor                               |
-| **Long stretcher**     | 1   | 4×4          | **82″**                | ½-lapped into short stringers, +2″ overhang |
-| Cross-stringers        | 2   | 2×4 (planed) | 31.5″                  | Between long aprons, flush with top         |
-| C-channels             | 2   | Steel        | ~37″ L × 2″ W × 8 mm T | Anti-warp braces                            |
+| Part                   | Qty | Material     | Final Cut                 | Notes                                       |
+| ---------------------- | --- | ------------ | ------------------------- | ------------------------------------------- |
+| Legs                   | 4   | 4×4          | 28.75″                    | 3½″ actual square                           |
+| Long aprons            | 2   | 2×4 (planed) | 71″                       | Between legs, inset ½″                      |
+| Short aprons           | 2   | 2×4 (planed) | 31.5″                     | Between legs                                |
+| Bottom short stringers | 2   | 4×4          | 31.5″                     | 8″ from floor                               |
+| **Long stretcher**     | 1   | 4×4          | **82″**                   | ½-lapped into short stringers, +2″ overhang |
+| Cross-stringers        | 2   | 2×4 (planed) | **35″**                   | Between long aprons, flush with top         |
+| C-channels             | 2   | Steel        | **32″ L × 2″ W × 8 mm T** | Inside apron perimeter, anti-warp braces    |
 
 ---
 
@@ -67,7 +67,7 @@
 | **Simpson Strong-Tie Outdoor Accent L-Brackets** | 8 pcs       | Two per 4×4 stringer end                   |
 | **Simpson structural screws (1½–2½″)**           | 1 box       | For L-brackets                             |
 | **Figure-8 fasteners**                           | ~24 pcs     | For top-to-base attachment                 |
-| **Steel C-channel**                              | 2 pcs @ 37″ | For underside of tabletop                  |
+| **Steel C-channel**                              | 2 pcs @ 32″ | For underside of tabletop inside apron     |
 | **#10 × ¾″ screws**                              | 10–12       | To mount C-channels                        |
 | **5⁄16″ straight router bit**                    | 1           | For channel recess (5⁄16″ deep)            |
 | **Wood glue**                                    | 1 bottle    | For tabletop glue-up                       |
@@ -85,7 +85,7 @@
 | **4×4**      | 3 boards       | 8 ft    | Legs, short stringers, long stretcher               |
 | **Optional** | 1 × 2 or 1 × 3 | 1 board | Temporary clamping cleats                           |
 
-> 🪵 *Tip:* Buy extra one 2×4 and one 4×4 if possible — allows you to pick the straightest pieces and account for saw kerfs or defects.
+> 🪵 *Tip:* Buy one extra 2×4 and one 4×4 for straight-grain selection and cutting allowance.*
 
 ---
 
@@ -94,7 +94,7 @@
 | Feature          | Specification                                  |
 | ---------------- | ---------------------------------------------- |
 | **Placement**    | 10–12″ from each end of tabletop               |
-| **Length**       | ~37″ (≈ table width – 3½″)                     |
+| **Length**       | **32″ (inside apron perimeter)**               |
 | **Recess depth** | 5⁄16″ (match 8 mm thickness)                   |
 | **Recess width** | Channel flange width + ¹⁄₁₆″ (~2 ¹⁄₁₆″)        |
 | **Attachment**   | #10 × ¾″ screws in slotted holes (along grain) |
@@ -150,7 +150,7 @@
 
 ### 6️⃣ Add Cross-Stringers
 
-1. Pocket-screw **two 31.5″ 2×4 cross-stringers** between the long aprons, **flush with top edge**.
+1. Pocket-screw **two 35″ 2×4 cross-stringers** between the long aprons, **flush with top edge**.
 2. Space them evenly (≈ 22–23″ from each end).
 3. These strengthen the top and provide mounting points for figure-8 fasteners.
 
@@ -161,7 +161,7 @@
 1. Place base upside-down on the underside of the top.
 2. Center for **6″ end overhang** and **1″ side overhang**.
 3. Mark apron outlines and figure-8 fastener locations (every 10–12″).
-4. Mark C-channel positions (10–12″ from each end).
+4. Mark **C-channel** positions (10–12″ from each end, inside apron perimeter).
 
 ---
 
@@ -201,8 +201,6 @@
 | **Aprons**           | 71″ (L) / 31.5″ (S)                     |
 | **Bottom stringers** | 4×4 @ 31.5″ (8″ off floor)              |
 | **Long stretcher**   | 4×4 @ 82″ (½-lapped, 2″ overhang)       |
+| **Cross-stringers**  | 2×4 @ 35″                               |
 | **Joinery**          | Pocket screws + Simpson L-Brackets      |
-| **C-channels**       | 2 @ 37″, 5⁄16″ recess, 10–12″ from ends |
-
----
-
+| **C-channels**       | 2 @ 32″, 5⁄16″ recess, 10–12″ from ends |
